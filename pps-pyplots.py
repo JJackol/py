@@ -17,7 +17,7 @@ t = np.linspace(0, T, N, endpoint=False)
 plt.subplot(rows, cols, 1)
 #my 1. sin wave
 A1 = 1
-f1 = 300
+f1 = 3
 ph1 = 0
 off1 = 0
 y1 = []
